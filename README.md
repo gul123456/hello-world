@@ -1,4 +1,1 @@
-# hello-world
- class apples{
- public static void main(strings[] args]){
- System.out.println("hello world");}}
+since i am a newbie,plz help if i will have any issue.
